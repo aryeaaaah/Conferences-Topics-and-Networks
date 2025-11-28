@@ -1,0 +1,11 @@
+Collected datasets comprising the proceedings of the ESANN conference from the years 2010 to 2024. 
+These datasets consist primarily of PDF manuscripts available on the official ESANN website.
+
+#Methodology
+- To efficiently gather the proceedings, An automated scraping tool using Python was used. 
+- The BeautifulSoup library (from bs4) was utilized to parse the HTML content of the conference webpages and extract download links for the relevant PDF files.
+
+#Progress
+- Successfully extracted all PDF links for ESANN proceedings spanning 2010 to 2024.
+- Downloaded and stored the proceedings locally for further analysis.
+- The scraping code, metadata, and documentation will be maintained in the project repository; however, the PDFs themselves will not be uploaded due to copyright and storage limitations.
