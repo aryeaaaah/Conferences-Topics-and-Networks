@@ -1,0 +1,69 @@
+community,Topic,Count
+0,Reinforcement Learning / Policy Optimization,9
+0,Generative Models / Adversarial Training,9
+0,Quantum Machine Learning,6
+1,Data Streams / Concept Drift,11
+1,Machine Learning for Hyperspectral Imaging,4
+1,Deep Learning (Sequence Prediction),2
+2,Graph Partitioning & Spectral Methods,5
+2,Graph Visualization & Clustering,4
+3,Feature Selection & Multi-Label Classification,2
+4,Feature Selection & Multi-Label Classification,12
+4,Signal Processing / EEG,6
+4,"Deep Learning for NLP (Language Models, Translation)",5
+5,Data Mining / Big Data Analytics,26
+5,Machine Learning (Gait Analysis),22
+5,Energy Forecasting / Wind Power,16
+6,Medical Imaging / Segmentation,14
+6,Graph Learning / Graph Theory,9
+6,Deep Graph Learning,6
+7,Energy Forecasting / Wind Power,10
+7,Reservoir Computing,6
+7,Machine Learning (Gait Analysis),5
+8,Data Mining / Big Data Analytics,11
+8,Network Structure Prediction,6
+9,Vector & Matrix Quantization,22
+9,Data Streams / Concept Drift,8
+9,Astronomy / Computer Vision,7
+10,Data Mining / Big Data Analytics,16
+10,Adversarial Machine Learning,13
+10,Feature Selection & Multi-Label Classification,10
+11,Feature Selection & Multi-Label Classification,10
+11,Sparse Linear Models / Optimization,8
+11,Causal Inference & Causal Learning,5
+12,Dimensionality Reduction / Embeddings,49
+12,Graph Visualization & Clustering,13
+12,Medical Imaging / Segmentation,11
+13,Neural Network Pruning / Model Compression,9
+13,Data Mining / Big Data Analytics,9
+13,Machine Learning (Gait Analysis),7
+14,Graph Learning / Graph Theory,107
+14,Reservoir Computing,51
+14,Data Streams / Concept Drift,18
+15,Convolutional Neural Networks (Computer Vision),8
+15,Quantum Machine Learning,6
+15,Data Streams / Concept Drift,4
+16,Energy Forecasting / Wind Power,14
+16,Feature Selection & Multi-Label Classification,12
+16,Clustering Algorithms (Hierarchical & Others),6
+17,Data Mining / Big Data Analytics,21
+17,Feature Selection & Multi-Label Classification,20
+17,Signal Processing / EEG,13
+18,Astronomy / Computer Vision,4
+18,"Machine Learning (Predictive Modeling, Likelihood)",4
+18,Reservoir Computing,4
+19,Signal Processing / EEG,6
+19,Medical Imaging / Segmentation,6
+20,Energy Forecasting / Wind Power,19
+20,Clustering Algorithms (Hierarchical & Others),10
+20,Urban Mobility / Smart Cities,10
+21,Medical Imaging / Segmentation,7
+22,Vector & Matrix Quantization,47
+22,Network Structure Prediction,22
+22,Data Mining / Big Data Analytics,15
+23,Data Streams / Concept Drift,47
+23,Graph Visualization & Clustering,16
+23,Machine Learning for Hyperspectral Imaging,16
+24,Feature Selection & Multi-Label Classification,14
+24,Reservoir Computing,7
+24,Sparse Linear Models / Optimization,6
