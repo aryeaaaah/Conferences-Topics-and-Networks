@@ -12,7 +12,8 @@ This repository contains the research paper, datasets, and scripts used for anal
 
 ## Files
 - `paper.pdf` – Full research paper
-- `data/` – Processed datasets
-- `code/` – Python scripts for analysis
+- `ESSAN` – Original datasets used in analysis
+- `Notebooks` – Jupyter notebooks used for data processing, topic modeling, network analysis, and visualization  
+- `csv files/` – Tabular data exported during processing, e.g., author lists, network edges, topic distributions 
 - `figures/` – Visualizations included in the paper
-- `embeddings/` – .npy file
+- `embeddings/` – .npy file (embeddings of abstract/paper)
